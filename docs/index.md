@@ -7,3 +7,7 @@
 - [API 参考](api.md)
 
 本项目用于练习 GitHub Actions 自动测试，以及通过 gh-pages 分支发布文档网站。
+
+## 自动更新验证
+
+这是第二次更新，用于验证 GitHub Actions 自动部署。
